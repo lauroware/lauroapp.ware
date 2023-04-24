@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { Card } from "react-native-elements";
 import {
   StatusBar,
   StyleSheet,
@@ -9,7 +8,6 @@ import {
   View,
   Image,
   FlatList,
-  ScrollView,
 } from "react-native";
 
 export default function App() {
